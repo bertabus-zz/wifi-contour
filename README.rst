@@ -13,7 +13,7 @@ Usage
 
 Something here..
 
-.. image:: wifi-contour/blob/raw/master/overlay.png
+.. image:: wifi-contour/raw/master/overlay.png
   :scale: 50 %
 
 test123
