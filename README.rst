@@ -13,7 +13,8 @@ Usage
 
 Something here..
 
-.. image:: overlay.png
+.. image:: wifi-contour/blob/master/overlay.png
+  :scale: 50 %
 
 test123
 
