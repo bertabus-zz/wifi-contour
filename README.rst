@@ -13,7 +13,7 @@ Usage
 
 Something here..
 
-.. image:: wifi-contour/raw/master/overlay.png
+.. image:: https://raw.github.com/bertabus/wifi-contour/master/overlay.png
   :scale: 50 %
 
 test123
